@@ -1,10 +1,10 @@
 {
   "name": "transmission-seedbox-ui",
   "version": "0.0.1",
-  "description": "A ui for interacting with intracting with Transmission Web (doesn't replace Transmission Web)",
+  "description": "Tailwind CSS boilerplate",
   "main": "index.js",
   "scripts": {
-    "dev": "vite --port 5000",
+    "dev": "vite --port 3000",
     "build": "vite build",
     "compile-css": "npx tailwindcss -i static/tailwind.css -o style.css",
     "compile-css-mini": "npx tailwindcss -i static/tailwind.css -o style.min.css --minify"
