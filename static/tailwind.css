@@ -10,12 +10,8 @@
     .body {
     @apply bg-[#233329]
     }
-    .h2 {
-    @apply text-red-800 text-lg
-    }
-
 }
+
 .body-font {
     font-family: 'Fira Sans', sans-serif;
-    /* color: aliceblue; */
 }
