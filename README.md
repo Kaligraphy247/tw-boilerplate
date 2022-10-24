@@ -9,7 +9,7 @@
 - `cd` to the directory you want the template to be located and the run:
 ```bash
 git init
-git remote add https://github.com/Kaligraphy247/tw-boilerplate.git
+git remote add origin https://github.com/Kaligraphy247/tw-boilerplate.git
 git fetch origin
 git reset --hard origin/master
 ```
