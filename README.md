@@ -15,7 +15,7 @@ git reset --hard origin/master
 ```
  > you could also chain commands on `POSIX` systems by running:
  ```bash
- git init && git remote add https://github.com/Kaligraphy247/tw-boilerplate.git && git fetch origin && git reset --hard origin/master
+ git init && git remote add origin https://github.com/Kaligraphy247/tw-boilerplate.git && git fetch origin && git reset --hard origin/master
  ```
 - Delete `.git` Folder after `fetch` is complete, and you can see all boilerplate files.
 
