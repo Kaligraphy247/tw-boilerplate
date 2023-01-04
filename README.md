@@ -46,4 +46,4 @@ npm run compile-css-mini
 npm run build
 ```
 > Adding `type="module"` is required to bundle up all pages along with passing each page to the `resolve` function in 
-`input` value, in `vite.config.js`. See the configuration (`vite.config.js`)file and [vite docs](https://vitejs.dev/guide/build.html#multi-page-app) to more information.
+`input` value, in `vite.config.js`. See the configuration (`vite.config.js`)file and [vite docs](https://vitejs.dev/guide/build.html#multi-page-app) for more information.
